@@ -4,7 +4,7 @@ ML scientist working in the pharmaceutical industry 🤸‍♂️🧪
 
 I explore Coding Best Practices and Data Science / Machine Learning workflows (that's mostly what my GitHub is about 🌳)
 
-Feel free to roam! ☕
+Feel free to roam! ☕<br/>
 ~Matthieu
 
 <!--
