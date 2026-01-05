@@ -2,8 +2,7 @@
 
 I'm an ML scientist working in the pharmaceutical industry 🤸‍♂️🧪 
 
-I explore Coding Best Practices and Data Science / Machine Learning workflows, which is mostly what my GitHub is about ☕
-
+I explore Coding Best Practices and Data Science / Machine Learning workflows, which is mostly what my GitHub is about! ☕
 (Also a finance & sports data nerd 🏃📈)
 
 ~Matthieu
