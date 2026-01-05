@@ -1,6 +1,6 @@
 **Welcome to my Github page! 🤗**
 
-I'm an ML scientist working in the pharmaceutical industry 🤸‍♂️🧪 <br/>
+ML scientist working in the pharmaceutical industry 🤸‍♂️🧪 <br/>
 I explore Coding Best Practices and Data Science / Machine Learning workflows (mostly what my GitHub is about ✏️🌳)
 
 Feel free to roam! ☕<br/>
