@@ -1,5 +1,9 @@
 **Welcome to my Github page!**
 
+I am a data scientist working in the pharmaceutical industry 👨‍🔬🧪 
+I explore Coding Best Practices and Data Science / Machine Learning workflows, which is mostly what my GitHub is about ☕🤸‍♂️
+(Also a finance & sports data nerd 🏃📈)
+
 ~Matthieu
 
 <!--
