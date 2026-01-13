@@ -1,7 +1,7 @@
 **Welcome to my Github page! 🎉**
 
 ML scientist in the pharma industry 🤸‍♂️🧪 <br/>
-I explore Coding Best Practices and Data Science / Machine Learning workflows ✏️
+I explore Data Science / Machine Learning workflows and Coding Best Practices ✏️
 
 Feel free to roam! ☕<br/>
 ~Matthieu
