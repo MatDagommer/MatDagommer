@@ -4,7 +4,6 @@ ML scientist in the pharma industry 🧬🧪 <br/>
 I explore Data Science / Machine Learning workflows and Coding Best Practices 📝
 
 Feel free to roam! ☕<br/>
-~Matthieu
 
 <!--
 **MatDagommer/MatDagommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
