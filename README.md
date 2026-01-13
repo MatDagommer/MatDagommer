@@ -1,7 +1,7 @@
 **Welcome to my Github page! 🤸‍♂️🎉**
 
 ML scientist in the pharma industry 🧬🧪 <br/>
-Exploring Data Science | Machine Learning | Productivity | Coding Best Practices 📝
+Exploring Data Science **·** Machine Learning **·** Productivity **·** Coding Best Practices 📝
 
 Feel free to roam! ☕<br/>
 
