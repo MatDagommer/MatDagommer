@@ -5,7 +5,7 @@ Exploring Data Science **·** Machine Learning **·** Productivity **·** Coding
 
 Feel free to roam! ☕<br/>
 
-( •_•)>⌐■-■ (⌐■_■)
+( •_•)>⌐■-■ (⌐■_■)<br/>
 More about me on my [personal website](https://matdagommer.github.io/)
 
 <!--
