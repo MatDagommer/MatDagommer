@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Projects I'm working on:
+- [Mexicat](https://github.com/MatDagommer/mexicat)
