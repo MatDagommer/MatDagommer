@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 -->
 
 Projects I'm working on:
-- [Mexicat](https://github.com/MatDagommer/mexicat)
+- [Mexicat](https://github.com/MatDagommer/mexicat) 😺🌵
