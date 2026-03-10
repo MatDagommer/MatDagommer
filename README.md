@@ -1,12 +1,10 @@
 **Welcome to my Github page! 🤸‍♂️🎉**
 
-ML scientist in the pharma industry 🧬🧪 <br/>
-Exploring Data Science **·** Machine Learning **·** Productivity **·** Coding Best Practices 📝
-
-Feel free to roam! ☕<br/>
+I'm an ML scientist in the pharma industry 🧬🧪 <br/>
+I explore Data Science **·** Machine Learning **·** Productivity **·** Coding Best Practices 📝
 
 ( •_•)>⌐■-■ (⌐■_■)<br/>
-More about me on my [personal website](https://matdagommer.github.io/).
+Find more about me on my [personal website](https://matdagommer.github.io/).
 
 <!--
 **MatDagommer/MatDagommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
